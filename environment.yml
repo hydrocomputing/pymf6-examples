@@ -1,0 +1,6 @@
+name: pymf6-examples
+channels:
+  - hydrocomputing
+  - conda-forge
+dependencies:
+- pymf6
